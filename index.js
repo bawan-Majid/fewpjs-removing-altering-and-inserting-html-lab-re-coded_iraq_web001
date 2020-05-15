@@ -1,5 +1,5 @@
 // Write your code here!
-let element = document.createElement('h1');
+let newHeader = document.createElement('h1');
 document.body.appendChild(element);
 let ul = document.createElement('ul')
 
