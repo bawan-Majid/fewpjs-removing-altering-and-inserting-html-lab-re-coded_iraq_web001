@@ -1,4 +1,4 @@
 // Write your code here!
 
-let element = document.querySelector("h1#victory");
-element.innerHTML = 'Bawan Majid'
+let newHeader = document.querySelector("h1#victory");
+newHeader.innerHTML = 'Bawan Majid'
